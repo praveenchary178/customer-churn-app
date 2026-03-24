@@ -5,7 +5,7 @@ A full-stack Machine Learning web application that predicts whether a customer i
 ---
 
 ## 🚀 Live Demo
-🔗https://your-app-link.onrender.com ](https://customer-churn-app-iu1h.onrender.com
+🔗https://customer-churn-app-iu1h.onrender.com/
 
 ---
 
